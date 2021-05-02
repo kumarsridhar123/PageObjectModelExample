@@ -1,0 +1,4 @@
+2021-04-15 21:41:33 INFO  Propertylog4jexample:14 - This is an info message
+2021-04-15 21:41:33 WARN  Propertylog4jexample:15 - This is a warn message
+2021-04-15 21:41:33 ERROR Propertylog4jexample:16 - This is an error message
+2021-04-15 21:41:34 FATAL Propertylog4jexample:17 - This is a fatal message
